@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/meme-generator/static/js/main.8940ef97.js",
+    "static/js/787.876f76cf.chunk.js": "/meme-generator/static/js/787.876f76cf.chunk.js",
+    "index.html": "/meme-generator/index.html",
+    "main.8940ef97.js.map": "/meme-generator/static/js/main.8940ef97.js.map",
+    "787.876f76cf.chunk.js.map": "/meme-generator/static/js/787.876f76cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8940ef97.js"
+  ]
+}
